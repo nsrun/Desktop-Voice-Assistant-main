@@ -1,6 +1,4 @@
-Certainly! Here's a sample GitHub README for a project named "Desktop-Voice-Assistant-main." If you'd like, I can customize it further based on specific features or details of your project.
 
----
 
 # Desktop Voice Assistant
 
