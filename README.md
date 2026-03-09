@@ -58,15 +58,4 @@ Speak your commands clearly, and the assistant will respond accordingly.
 - Add or modify commands in `main.py`.
 - Integrate new APIs or functionalities as needed.
 
-## License
 
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
-## Acknowledgments
-
-- Thanks to the open-source community
-- Inspiration from various voice assistant projects
-
----
-
-If you provide me with more specific details about the project, I can tailor this README even more accurately!
